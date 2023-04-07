@@ -1,6 +1,6 @@
 ## Background
 
-This is group project done on ETL, Python Flask, JavaScript, HTML and Data Visualizations
+This was a group project using the ETL method of data processing, Python Flask, JavaScript, HTML and Data Visualizations to create a tool for evaluating the relative air quality of California cities.
 
 
 
