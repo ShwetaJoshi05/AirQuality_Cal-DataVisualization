@@ -90,6 +90,8 @@ As air quality has been improved and there are still pollutants (Ozone, NO2, and
 Effort should continuously be made to reduce them. How can we make a difference? Drive less, use less electricity, don't burn wood or trash, support measures in your community that can cut air pollution, etc.
 Also air quality continues to worsen in cities across the world, especially in low-income countries and developing countries.  Cooperation should be setup among countries in combating air pollution.
 
+The presentation link is as follows https://docs.google.com/presentation/d/1gcAJbYZgsKAPCHNBgrSdTqi2zWFi4STZfI3WkBl7x9U/edit#slide=id.g22b966ed116_2_5
+
 
 
 
